@@ -1,2 +1,2 @@
-# GreyPic
+# Image Editor
 A java to 
